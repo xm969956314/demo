@@ -1,0 +1,1 @@
+function fun(){alert("sad")}function fn(){return 1}var b=2;console.log(5435);var a=1;console.log("adsad");
